@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="VORenta.cs" />
+    <Compile Include="VOCarro.cs" />
     <Compile Include="VOSalida.cs" />
     <Compile Include="VOBarco.cs" />
     <Compile Include="VOPersona.cs" />
